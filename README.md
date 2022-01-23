@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keira-Pendragon
--      My pronouns are she/her, them/they etc... but never he/him. 
+       My pronouns are she/her, them/they etc... but never he/him. 
        I am an eclectic cosmic rainbow kitty-dragon who has the attention span of a chipmunk, the food adventerousness of Mikey*,
          and a stomach that makes that princess in the story with the pea seem not entirely wimpy.
        like, what even am I? ... Ah, right. I'm ADHD given form, with some fantasy and sci-fi thrown in for flavor.
@@ -22,18 +22,13 @@
 
 
 - 📫 How to reach me ... no reaching me for now. Tooooo tired, and besides. I'm still boring right now lol.
-              Though I guess if you really wanna... keira.nirvanna@gmail.com works I guess. 
-              
-              If you happen to be a potential employer interested in a pity hire, I love everything about software development from refactoring and debugging old code
-              to simple things like converting inputs from sensors like scales, diagnostic tools for both hardware and software colleagues, builing UIs, or solving novel
-              problems. I'm most familiar with C/C++ and Java, but I've worked with Python, JSON, XML and a range of others...
-              ...And I pick things up quickly, possibly too quickly... Let me know ahead of time what you'd like me to do if I finish a project ahead of time.
-              
-        Since I decided to do this with a little downtime, I might start shuffling a few things into this if I can come up with something to show off some of the kinds
-            of work I've done in the past. Since I don't have access to any of the work I did at the one job I did have in firmware development I'll have to get creative.
-            (I'm braindead zombie-autopiloting this at work where my main job is wiping down surfaces once an hour in a smoll room. Go me...) 
-              
-
+              Though I guess if you really wanna... keira.nirvanna@gmail.com works I guess.
+              If you happen to be a potential employer interested in a pity hire:
+              I love everything about software development from refactoring and debugging old code
+              to simple things like converting inputs from sensors like scales, diagnostic tools for 
+              both hardware and software colleagues, builing UIs, or solving novel problems. 
+              I'm most familiar with C/C++ and Java, but I've worked with Python, JSON, XML and a range of others...
+              ...And I pick things up quickly, possibly too quickly... 
 
 
 - * You know, from those 90s commercials? Are those still around??
