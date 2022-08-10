@@ -29,6 +29,8 @@
               both hardware and software colleagues, builing UIs, or solving novel problems. 
               I'm most familiar with C/C++ and Java, but I've worked with Python, JSON, XML and a range of others...
               ...And I pick things up quickly, possibly too quickly... 
+              
+              PS) Pic is not me - she's art someone else made that is serving as my RP character currently~
 
 
 - * You know, from those 90s commercials? Are those still around??
