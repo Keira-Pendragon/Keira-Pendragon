@@ -53,6 +53,4 @@ class Consonant
          * TODO: Possibly update these if I ever figure out how to do the char type that allows
          * all the IPA symbols.... :sigh:
          */
-    
-
 };
