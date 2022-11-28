@@ -1,13 +1,26 @@
+/**
+ * Consonant.cpp
+ * 11/28/2022 
+ * Author: Keira Pendragon
+*/
 
 #include "Consonant.h"
-//Try to figure out header and class inegration....
+/**
+ * Try to figure out header and class inegration.... 
+ * might need to wait till I'm at home...
+ * TODO: if possibly merge and replace makeMe().
+*/
 Consonant::Consonant()
 {
 
 }
+
+
 /**
  * Initialize the consonant for acceptable onset and coda clusters.
- * TODO: consider including the mid-clusters as well.
+ * TODO: reunite with the constructor. 
+ * Alternatively figure out a more streamlined solution - Already kind of cooking
+ * some options in my brain for later. 
 */
 void Consonant::makeMe(int c_val)
 {
