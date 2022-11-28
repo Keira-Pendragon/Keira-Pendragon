@@ -31,18 +31,11 @@ class Consonant
      * TODO: Relearn the cleaner way to do the ints that rep the consts. 
     */
         // Value for each major consonant for the switch...
-        static const int k_cons = 0;
-        static const int t_cons = 1;
-        static const int p_cons = 2;
-        static const int s_cons = 3;
-        static const int sh_cons = 4;
-        static const int f_cons = 5;
-        static const int th_cons = 6;
-        static const int r_cons = 7;
-        static const int l_cons = 8;
-        static const int n_cons = 9;
-        static const int m_cons = 10;
-        static const int h_cons = 11;
+        enum consonants
+        {
+            k_cons, t_cons, p_cons, s_cons, sh_cons, f_cons, 
+            th_cons, r_cons, l_cons, n_cons, m_cons, h_cons
+        };
         // The consonant that will preface any cluster this spits out.
         std::string lead_const;
         // stores the numeric indicator for this consonant 
