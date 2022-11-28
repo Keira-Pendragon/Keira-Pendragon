@@ -1,7 +1,10 @@
 /**
+ * ******* Initialization Info ************
  * ConlangSandbox.cpp
  * 11/28/2022 
  * Author: Keira Pendragon
+ * ****************************************
+ * 
 */
 
 #include <iostream>

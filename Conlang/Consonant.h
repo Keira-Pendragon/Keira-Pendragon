@@ -1,7 +1,10 @@
 /**
+ * ******* Initialization Info ************
  * Consonant.h
  * 11/28/2022 
  * Author: Keira Pendragon
+ * ****************************************
+ * 
 */
 
 #include <iostream>
